@@ -2,31 +2,31 @@
     {
         "titolo": "Escursione tra le montagne",
         "contenuto": "Oggi ho fatto un'escursione mozzafiato tra le maestose montagne. L'aria fresca, il panorama mozzafiato e il contatto con la natura mi hanno riempito il cuore di gioia.",
-        "immagine": "montagne.jpg",
+        "immagine": "post1.jpeg",
         "tags": ["escursione", "natura", "avventura"]
     },
     {
         "titolo": "La mia ricetta segreta: Tiramisù",
         "contenuto": "Vi svelo il segreto del mio tiramisù perfetto! Condivido con voi la mia ricetta, passo dopo passo, per preparare questo dolce irresistibile.",
-        "immagine": "tiramisu.jpg",
+        "immagine": "post2.jpeg",
         "tags": ["ricette", "dolci", "cucina"]
     },
     {
         "titolo": "Consigli per uno stile di vita sano",
         "contenuto": "Mantenere uno stile di vita sano è fondamentale per il benessere. Condivido con voi alcuni consigli pratici su alimentazione, esercizio fisico e gestione dello stress.",
-        "immagine": "stile_di_vita_sano.jpg",
+        "immagine": "post3.jpeg",
         "tags": ["benessere", "salute", "consigli"]
     },
     {
         "titolo": "Le meraviglie della fotografia naturalistica",
         "contenuto": "La fotografia naturalistica mi permette di catturare la bellezza e la magia della natura. Oggi condivido con voi alcune delle mie migliori scatti e le storie dietro di essi.",
-        "immagine": "fotografia_naturalistica.jpg",
+        "immagine": "post4.jpeg",
         "tags": ["fotografia", "natura", "arte"]
     },
     {
         "titolo": "Viaggio nel tempo: alla scoperta di antiche civilizzazioni",
         "contenuto": "Mi sono immerse nelle rovine di antiche civilizzazioni e ho vissuto un vero viaggio nel tempo. Le testimonianze del passato mi hanno fatto riflettere sulla storia e sull'umanità.",
-        "immagine": "antiche_civilizzazioni.jpg",
+        "immagine": "post5.jpeg",
         "tags": ["viaggio", "storia", "cultura"]
     }
 ]
