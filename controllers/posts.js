@@ -31,7 +31,6 @@ module.exports = {
         })
     },
     post: (req, res) => {
-        console.log(postsJSON);
         writeJSON('posts', [...postsJSON, req.body])
         res.send('Post effettuato correttamente')
     }
