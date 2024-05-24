@@ -2,6 +2,8 @@
 const { json } = require('express')
 const postsArray = require('../data/post-array.js')
 const postsJSON = require('../data/posts.json')
+const {readJSON, writeJSON} = require('../utils.js');
+
 
 // export controller
 module.exports = {
@@ -29,15 +31,8 @@ module.exports = {
         })
     },
     post: (req, res) => {
-        res.send('Postato correttamente')
+        console.log(postsJSON);
+        writeJSON('posts', [...postsJSON, req.body])
+        res.send('Post effettuato correttamente')
     }
 }
-
-
-// if(req.accepts('html')){
-//     return res.type('html')
-//     .send(postsArray)
-// } else if (req.accepts('json')){
-//     return res.type('json')
-//     .send(postsJSON);
-// }
